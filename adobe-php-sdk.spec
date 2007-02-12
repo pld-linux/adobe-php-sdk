@@ -1,5 +1,5 @@
 Summary:	Helping PHP developers build RIAs with Adobe technology
-Summary(pl):	Pomoc dla programistÛw PHP w tworzeniu RIA z uøyciem technologii Adobe
+Summary(pl.UTF-8):   Pomoc dla programist√≥w PHP w tworzeniu RIA z u≈ºyciem technologii Adobe
 Name:		adobe-php-sdk
 Version:	0
 Release:	0.1
@@ -16,10 +16,10 @@ Using the Adobe Spry Ajax framework and Adobe Flex, this SDK is
 intended to help PHP developers build cool rich Internet applications
 with Adobe technologies.
 
-%description -l pl
-Przy uøyciu szkieletu Adobe Spry Ajax i Adobe Flex to SDK ma pomÛc
+%description -l pl.UTF-8
+Przy u≈ºyciu szkieletu Adobe Spry Ajax i Adobe Flex to SDK ma pom√≥c
 programistom PHP w tworzeniu dobrych, bogatych aplikacji Internetowych
-z uøyciem technologii Adobe.
+z u≈ºyciem technologii Adobe.
 
 %prep
 %setup -q -n adobe_php_sdk
