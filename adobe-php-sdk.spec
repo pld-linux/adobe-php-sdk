@@ -1,5 +1,5 @@
 Summary:	Helping PHP developers build RIAs with Adobe technology
-Summary(pl.UTF-8):   Pomoc dla programistów PHP w tworzeniu RIA z użyciem technologii Adobe
+Summary(pl.UTF-8):	Pomoc dla programistów PHP w tworzeniu RIA z użyciem technologii Adobe
 Name:		adobe-php-sdk
 Version:	0
 Release:	0.1
