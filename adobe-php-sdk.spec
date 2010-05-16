@@ -8,6 +8,7 @@ Group:		Development/Languages/PHP
 Source0:	http://blogs.adobe.com/mikepotter/adobe_php_sdk.zip
 # Source0-md5:	bff4b02924791cc965d0a4fa06cf2bce
 URL:		http://code.google.com/p/adobe-php-sdk/
+BuildRequires:	unzip
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
